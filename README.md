@@ -9,7 +9,7 @@
 - Circular Queue
 - Priority Queue
 - HashMap
-- HasSet
+- HashSet
 - Tree
 - Binary Search Tree
 - Heap
@@ -20,9 +20,9 @@
 - Merge Sort
 - Quick Sort
 - Binary Search
-- Breadth First Search
-- Depth First Search
-- Dijkstra
+- Breadth-First Search
+- Depth-First Search
+- Dijkstra's
 - Greatest Common Divisor
 - Least Common Multiple
 - Backtracking 1
