@@ -8,12 +8,13 @@
 - Monotonic Stack
 - Circular Queue
 - Priority Queue
-- Heap
 - HashMap
 - HasSet
 - Tree
-- Graph
+- Binary Search Tree
+- Heap
 - Trie
+- Graph
 
 ## Algorithms
 - Merge Sort
