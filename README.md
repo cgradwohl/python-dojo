@@ -12,6 +12,9 @@
 - HashSet
 - Tree
 - Binary Search Tree
+- AVL trees
+- Red-Black trees
+- Splay trees
 - Heap
 - Trie
 - Graph
