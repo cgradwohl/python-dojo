@@ -1,50 +1,52 @@
 ## Data Structures
-- Array
-- String
-- Matrix
-- Linked List
-- Stack
-- Queue
-- Monotonic Stack
-- Circular Queue
-- Priority Queue
-- HashMap
-- HashSet
-- Tree
-- Binary Search Tree
-- AVL trees
-- Red-Black trees
-- Splay trees
-- Heap
-- Trie
-- Graph
+- [x] Array
+- [x] String
+- [x] Matrix
+- [x] Linked List
+- [x] Stack
+- [x] Queue
+- [x] Monotonic Stack
+- [x] Circular Queue
+- [x] Priority Queue
+- [x] HashMap
+- [x] HashSet
+- [x] Tree
+- [x] Binary Search Tree
+- [] AVL trees
+- [] Red-Black trees
+- [] Splay trees
+- [] Heap
+- [] Trie
+- [] Graph
 
 ## Algorithms
-- Merge Sort
-- Quick Sort
-- Binary Search
-- Breadth-First Search
-- Depth-First Search
-- Dijkstra's
-- Greatest Common Divisor
-- Least Common Multiple
-- Backtracking 1
-- Backtracking 2
-- Binary Search
-- BFS on Tree
-- DFS on Tree
-- BFS on Graphs
-- DFS on Graphs
-- BFS on a Matrix
-- Sliding Window (Fixed Size)
-- Sliding Window Flexible - Longest
-- Sliding Window Flexible - Shortest
-- Topological Sort
-- Union Find
+- [] Merge Sort
+- [] Quick Sort
+- [x] Binary Search on Binary Tree
+- [] Binary Search on Array
+- [x] Least Common Ancestor
+- [] Breadth-First Search
+- [] Depth-First Search
+- [] Dijkstra's
+- [] Greatest Common Divisor
+- [] Least Common Multiple
+- [] Backtracking 1
+- [] Backtracking 2
+- [] Binary Search
+- [] BFS on Tree
+- [] DFS on Tree
+- [] BFS on Graphs
+- [] DFS on Graphs
+- [] BFS on a Matrix
+- [x] Sliding Window (Fixed Size)
+- [x] Sliding Window Flexible - Longest
+- [x] Sliding Window Flexible - Shortest
+- [] Topological Sort
+- [] Union Find
 
 ## Concepts
-- Big O in Space and Time
-- Dynamic Programming
-- Recursion
-- Memory (Stack vs Heap)
-- Bit Manipulation
+- [x] Big O in Space and Time
+- [] Dynamic Programming
+- [] Recursion
+- [] Memory (Stack vs Heap)
+- [] Bit Manipulation
