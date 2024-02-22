@@ -1,7 +1,4 @@
-class Node:
-  def __init__(self, value):
-    self.left = self.right = None
-    self.value = value
+from node import Node
 
 def in_order_tree_walk_recursive(x: Node):
   if x is not None:
