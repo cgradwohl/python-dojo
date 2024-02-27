@@ -24,20 +24,19 @@
 - [] Quick Sort
 - [x] Binary Search on Binary Tree
 - [] Binary Search on Array
-- [x] Least Common Ancestor
-- [] Breadth-First Search
-- [] Depth-First Search
+- [x] Least Common Ancestor Binary Tree
+- [] Successor Node in Binary Tree
+- [] Delete Node from Binary Tree
+- [] Breadth-First Search on Tree
+- [] Depth-First Search on Tree
+- [] Breadth-First Search on Graphs
+- [] Depth-First Search on Graphs
 - [] Dijkstra's
 - [] Greatest Common Divisor
 - [] Least Common Multiple
 - [] Backtracking 1
 - [] Backtracking 2
-- [] Binary Search
-- [] BFS on Tree
-- [] DFS on Tree
-- [] BFS on Graphs
-- [] DFS on Graphs
-- [] BFS on a Matrix
+- [] Breadth-First Search on a Matrix
 - [x] Sliding Window (Fixed Size)
 - [x] Sliding Window Flexible - Longest
 - [x] Sliding Window Flexible - Shortest
@@ -46,7 +45,7 @@
 
 ## Concepts
 - [x] Big O in Space and Time
-- [] Dynamic Programming
 - [] Recursion
 - [] Memory (Stack vs Heap)
 - [] Bit Manipulation
+- [] Dynamic Programming

@@ -30,12 +30,12 @@ def lca_binary_search_tree(root: Node, p: Node, q: Node) -> Node:
           return root
   return None
 
-def lca_binary_tree(self, root: Node, p: Node, q: Node) -> Node:
+def lca_binary_tree(root: Node, p: Node, q: Node) -> Node:
   if root is None or root == p or root == q:
       return root
 
-  left = self.lowestCommonAncestor(root.left, p, q)
-  right = self.lowestCommonAncestor(root.right, p, q)
+  left = lca_binary_tree(root.left, p, q)
+  right = lca_binary_tree(root.right, p, q)
 
   if left and right:
       return root
