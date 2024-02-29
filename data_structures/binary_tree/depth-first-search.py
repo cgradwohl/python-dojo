@@ -1,6 +1,5 @@
 from node import Node
 
-
 def dfs(u: Node, target: Node):
   if u is None or u.value == target.value:
     return u

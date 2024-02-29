@@ -3,19 +3,23 @@
 - [x] String
 - [x] Matrix
 - [x] Linked List
+
 - [x] Stack
-- [x] Queue
 - [x] Monotonic Stack
+- [x] Queue
+- [x] Dequeue
 - [x] Circular Queue
-- [x] Priority Queue
+- [x] Priority Queue with Arrays
 - [x] HashMap
 - [x] HashSet
+
 - [x] Tree
 - [x] Binary Search Tree
 - [] AVL trees
 - [] Red-Black trees
 - [] Splay trees
-- [] Heap
+- [x] Heap
+- [x] Priority Queue with Heaps
 - [] Trie
 - [] Graph
 
