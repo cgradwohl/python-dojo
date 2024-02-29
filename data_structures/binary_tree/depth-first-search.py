@@ -1,4 +1,4 @@
-from data_structures.binary_search_tree.node import Node
+from node import Node
 
 
 def dfs(u: Node, target: Node):
