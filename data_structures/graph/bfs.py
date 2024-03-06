@@ -1,7 +1,8 @@
-from collections import deque
+from collections import deque, defaultdict
+
 def bfs(G, vertex, target):
-  visited = set()
   queue = deque([vertex])
+  visited = set()
 
   while len(queue) > 0:
     node = queue.popleft()
@@ -49,4 +50,10 @@ g.add_edge(4, 21)
 g.add_edge(4, 9)
 
 result = bfs(g, 7, 4)
-print(result)
+
+d1 = {}
+d2 = defaultdict()
+d3 = defaultdict(list)
+print(d1)
+print(d2)
+print(d3)
