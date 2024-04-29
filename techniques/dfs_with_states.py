@@ -4,23 +4,19 @@ class Node:
         self.value = value
 
 
-def allPaths(root):
-    def dfs_with_states(root, path, result):
-        if all(child is None for child in root.children):
-            path.append(root.value)
-            result.append(path)
-            return
-        for child in root.children:
-            if child is not None:
-                new_path = path + [str(root.value)]
-                dfs_with_states(child, new_path, result)
+def allPaths(node, path=[], result=[]):
+    if all(c is None for c in node.children):
+        result.append("->".join(path) + "->" + str(node.value))
+        return
 
-    r = []
-    dfs_with_states(root, [], r)
-    return r
+    for child in node.children:
+        if child is not None:
+            new_path = [*path, str(node.value)]
+            allPaths(child, new_path, result)
 
+    return result
 
-# tree
+    # tree
 node1 = Node(1)
 node2 = Node(2)
 node3 = Node(3)
